@@ -46,9 +46,10 @@ Learning how websites, applications, servers, databases, authentication, and API
 ==AI
 
 Experimenting with AI TOOLS and using them as part of my LEARNING workflow.
-~~
+
 ==Android
 Testing projects on Android and learning what it takes to turn experiments into actual mobile applications
+
 ---
 
 They're just a snapshot of what I'm currently exploring
